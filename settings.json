@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kousikpaul.aternos.me
-",
+    "ip": "kousikpaul.aternos.me",
     "port": 12622,
     "version": "1.20.1",
     "try-creative": false
